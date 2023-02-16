@@ -2,5 +2,5 @@
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {
   },
-  "postStartCommand": "bash install.sh"
+  "postCreateCommand": "bash install.sh"
 }
