@@ -1,4 +1,4 @@
-wget -q -O openrefine.tar.gz "https://oss.sonatype.org/service/local/artifact/maven/content?r=releases&g=org.openrefine&a=openrefine&v=3.6.2&c=linux&p=tar.gz"
+wget -q -O openrefine.tar.gz "https://github.com/OpenRefine/OpenRefine/releases/download/3.8.7/openrefine-linux-3.8.7.tar.gz"
 tar -xzf openrefine.tar.gz
 rm openrefine.tar.gz
 gh codespace ports forward 3333
