@@ -4,10 +4,10 @@ Vorlage für die Bearbeitung der Library Carpentry Lesson "OpenRefine" mit GitHu
 
 Startbefehl:
 ```
-openrefine-3.6.2/refine
+openrefine-3.8.7/refine
 ```
 
-Portfreigabe, um OpenRefine aufrufen zu können:
+(Portfreigabe, um OpenRefine aufrufen zu können:
 1. Tab `Ports` aufrufen
 2. Portnummer `3333` eintippen
-3. Link anklicken (dauert einige Sekunden bis die Oberfläche von OpenRefine erscheint)
+3. Link anklicken, dauert einige Sekunden bis die Oberfläche von OpenRefine erscheint)
