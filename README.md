@@ -4,7 +4,7 @@ Vorlage für die Bearbeitung der Library Carpentry Lesson "OpenRefine" mit GitHu
 
 Startbefehl:
 ```
-openrefine-3.8.7/refine
+openrefine-3.10.1/refine
 ```
 
 (Portfreigabe, um OpenRefine aufrufen zu können:
