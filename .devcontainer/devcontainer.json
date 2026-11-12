@@ -1,5 +1,5 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:5-noble",
+  "image": "mcr.microsoft.com/devcontainers/universal:latest",
   "features": {
   },
   "postCreateCommand": "bash install.sh"
